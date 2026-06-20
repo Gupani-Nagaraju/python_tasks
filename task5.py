@@ -35,3 +35,5 @@ modify_tuple(tap)
 slicing()
 
 scoping()
+
+print(message)
